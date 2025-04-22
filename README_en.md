@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📑 <a href="#-overview">Overview</a> • <a href="#-features">Features</a> • <a href="#-usage">Usage</a> • <a href="#-ui-preview">UI Preview</a> • <a href="#-compatibility">Compatibility</a>
+  📑 <a href="#-overview">Overview</a> • <a href="#-functions">Functions</a> • <a href="#-usage">Usage</a> • <a href="#-ui-preview">UI Preview</a> • <a href="#-compatibility">Compatibility</a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ The project is still under development and temporarily closed source to prevent 
 
 > ⚠️ **Disclaimer**: This project is intended for **educational and research purposes only**. Do **not** use it in any way that **violates laws, service agreements, or infringes on others' rights**. The developer is **not responsible** for any misuse of this tool.
 
-## 🚀 Features
+## 🚀 Functions
 
 - ### Spoofer
 
@@ -51,4 +51,4 @@ The project is still under development and temporarily closed source to prevent 
 ## 🧪 Compatibility
 
 - Android 10 to 15
-- Rooted environments supported: `Magisk` `KernelSU` `APatch`
+- Rooted environments supported: `Magisk` `KernelSU` `APatch` or their branches
