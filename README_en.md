@@ -27,7 +27,7 @@ The project is still under development and temporarily closed source to prevent 
 
 - ### Spoofer
 
-  Spoof identifiers like `Serial Number`, `Android ID`, `ADID`, and more.
+  Spoof identifiers like `Serial Number` `Android ID` `WLAN MAC` `ADID` and more.
 
 - ### Cleaner
 
@@ -37,8 +37,8 @@ The project is still under development and temporarily closed source to prevent 
 
 1. **Select**: Choose the device identifiers you want to spoof and specify the target app scope (some identifiers may affect normal system behavior, so scoping is recommended).
 2. **Seed**: Each `Seed` is unique and corresponds to a set of random but valid device data. Only refresh it when necessary.
-3. **Spoof**: Once spoofing is applied via a seed, a reboot is triggered automatically to apply changes.
-4. **Reset**: Some changes are temporary (effective after one reboot), while others are persistent. Please manually reset when needed to revert spoofed data.
+3. **Spoof**: After spoofing according to the seed, please reboot the device as soon as possible to apply the changes. (It will reboot automatically at present)
+4. **Reset**: Some changes are temporary and take effect after the first restart and become invalid after the second reboot. But some changes are permanent, so when you are in a spoofed state and need to reset, manually click Reset.
 
 ## 🧐 UI Preview
 
